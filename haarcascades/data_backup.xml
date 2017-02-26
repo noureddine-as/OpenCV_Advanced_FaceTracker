@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cascades>
+    <cascade id="01">
+        <file>haarcascades/haarcascade_frontalface_default.xml</file>
+        <name>Frontal Face</name>
+        <desc>Detecting a frontal face.</desc>
+        <r>255</r>
+        <g>0</g>
+        <b>0</b>
+    </cascade>
+
+    <cascade id="02">
+        <file>haarcascades/haarcascade_profileface.xml</file>
+        <name>Profile Face</name>
+        <desc>Detecting a profile face.</desc>
+        <r>0</r>
+        <g>0</g>
+        <b>255</b>
+    </cascade>
+
+    <cascade id="03">
+        <file>haarcascades/haarcascade_upperbody.xml</file>
+        <name>Upper Body</name>
+        <desc>Detecting upper body.</desc>
+        <r>0</r>
+        <g>0</g>
+        <b>255</b>
+    </cascade>
+
+    <cascade id="04">
+        <file>haarcascades/haarcascade_fullbody.xml</file>
+        <name>Full Body</name>
+        <desc>Detecting full body.</desc>
+        <r>0</r>
+        <g>0</g>
+        <b>255</b>
+    </cascade>
+
+    <cascade id="05">
+        <file>haarcascades/haarcascade_lowerbody.xml</file>
+        <name>Lower Body</name>
+        <desc>Detecting lower body.</desc>
+        <r>0</r>
+        <g>0</g>
+        <b>255</b>
+    </cascade>
+
+</cascades>
